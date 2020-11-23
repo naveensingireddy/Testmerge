@@ -1,0 +1,2 @@
+a.enter name = input(from keyboard)
+
