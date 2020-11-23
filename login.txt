@@ -1,2 +1,6 @@
 a.enter name = input(from keyboard)
+b.enter name = input ( from key borad) 
+
+c = login to server 
+d  = forgot password
 
